@@ -5,7 +5,6 @@ In this Mulava challenge i used  Node, FeathersJS and MongoDB for the back-end A
 Requirements :
 *Node.js (v14+)
 *MongoDB (v4.2+)
-*Yarn package manager
 *Ionic 
 
 
@@ -28,3 +27,5 @@ Installation Steps :
 8/Your default web browser will be launched automatically with the URL http://localhost:8100/
 
 9/Open Android Studio or Xcode to run the App on the Emulator from the IOS / ANDROID folder 
+
+10/You can Take a  look at the App in the App screenshot Folder
